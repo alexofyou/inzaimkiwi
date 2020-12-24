@@ -1,0 +1,42 @@
+{
+   "cards":[
+      {
+         "image_url":"http://zaem-online.kz/img/alfa.png",
+         "sum":"до 15 000 грн",
+         "percent":"от 1,85%",
+         "url":"http://minfin.ru"
+      },
+      {
+         "image_url":"http://zaem-online.kz/img/smart_card_mc_normal.png",
+         "sum":"до 20 000 грн",
+         "percent":"от 1,85%",
+         "url":"http://minfin.ru"
+      }
+   ],
+   "zaim":[
+      {
+         "image":"https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
+         "percents":"6.9%",
+         "sum_one":"до до 15 000 000 руб",
+         "days_srok":"до 180 месяцев",
+         "age":"от 18 до 75 лет",
+         "urlna":"https://www.vostbank.ru/"
+      },
+      {
+         "image":"https://api.bankiros.ru/bank_logo/logos/v-express-bank.png",
+         "percents":"9%",
+         "sum_one":"до 3 000 000 руб",
+         "days_srok":"до 180 месяцев",
+         "age":"от 18 до 75 лет",
+         "urlna":"https://www.vostbank.ru/"
+      },
+      {
+         "image":"https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
+         "percents":"10%",
+         "sum_one":"до 700 000 руб",
+         "days_srok":"до 36 месяцев",
+         "age":"от 18 до 75 лет",
+         "urlna":"https://www.homecredit.ru"
+      }
+   ]
+}
