@@ -23,15 +23,7 @@
 	"age": "18-65",
     "image": "https://zaimua.com.ua/img/miloan_logo.png",
     "rating": 4.6,
-	"sum_to": "50 000 руб",
-	"term_from": "1",
-	"term_to": "160",
-
-	"visa": true,
-	"mastercard": true,
-	"mir": false,
-	"qiwi": true,
-	"yandex": false,
+	
     "sum_one": "12 000 грн",
 	"percents": "от 0%",
 	"days_srok": "до 160 дней",
@@ -47,15 +39,7 @@
    "age": "18-65",
     "image": "https://zaimua.com.ua/img/bbvs.png",
     "rating": 4.6,
-   "sum_to": "50 000 руб",
-   "term_from": "1",
-   "term_to": "160",
-
-   "visa": true,
-   "mastercard": true,
-   "mir": false,
-   "qiwi": true,
-   "yandex": false,
+  
     "sum_one": "15 000 грн",
    "percents": "от 0.01%",
    "days_srok": "до 160 дней",
@@ -72,15 +56,6 @@
    "age": "18-65",
     "image": "https://zaimua.com.ua/img/sgroshi.jpg",
     "rating": 4.6,
-   "sum_to": "50 000 руб",
-   "term_from": "1",
-   "term_to": "160",
-
-   "visa": true,
-   "mastercard": true,
-   "mir": false,
-   "qiwi": true,
-   "yandex": false,
     "sum_one": "10 000 грн",
    "percents": "от 2%",
    "days_srok": "до 160 дней",
@@ -96,15 +71,6 @@
    "age": "18-65",
     "image": "https://zaimua.com.ua/img/prostogr.png",
     "rating": 4.6,
-   "sum_to": "50 000 руб",
-   "term_from": "1",
-   "term_to": "160",
- 
-   "visa": true,
-   "mastercard": true,
-   "mir": false,
-   "qiwi": true,
-   "yandex": false,
     "sum_one": "20 000 грн",
    "percents": "от 0%",
    "days_srok": "до 160 дней",
@@ -118,15 +84,6 @@
    "age": "18-65",
     "image": "https://zaimua.com.ua/img/logo-58.png",
     "rating": 4.6,
-   "sum_to": "50 000 руб",
-   "term_from": "1",
-   "term_to": "160",
-
-   "visa": true,
-   "mastercard": true,
-   "mir": false,
-   "qiwi": true,
-   "yandex": false,
     "sum_one": "10 000 грн",
    "percents": "от 0.1%",
    "days_srok": "до 160 дней",
@@ -145,16 +102,7 @@
    "age": "21-65",
     "image": "https://zaimua.com.ua/img/kredit7.jpg",
     "rating": 5,
-   "sum_to": "70 000 руб",
-   "term_from": "1",
-   "term_to": "60",
- 
-   "visa": true,
-   "mastercard": true,
-   "mir": false,
-   "qiwi": true,
-   "yandex": false,
-    "sum_one": "до 10 000 грн. Первый кредит 0%",
+    "sum_one": "до 10 000 грн.",
    "percents": "от 0%",
    "days_srok": "до 160 дней",
     "urlna": "https://tds.pdl-profit.com?offerid=1147&affid=20776&subid2=uakre"
@@ -168,15 +116,6 @@
    "age": "18-65",
     "image": "https://zaimua.com.ua/img/casuh.png",
     "rating": 4.6,
-   "sum_to": "50 000 руб",
-   "term_from": "1",
-   "term_to": "160",
-
-   "visa": true,
-   "mastercard": true,
-   "mir": false,
-   "qiwi": true,
-   "yandex": false,
     "sum_one": "15 000 грн",
    "percents": "от 0.01%",
    "days_srok": "до 160 дней",
@@ -191,15 +130,6 @@
    "age": "18-65",
     "image": "https://zaimua.com.ua/img/mycre.png",
     "rating": 4.9,
-   "sum_to": "50 000 руб",
-   "term_from": "1",
-   "term_to": "160",
- 
-   "visa": true,
-   "mastercard": true,
-   "mir": false,
-   "qiwi": true,
-   "yandex": false,
     "sum_one": "6 000 грн",
    "percents": "от 0.01%",
    "days_srok": "до 160 дней",
@@ -219,15 +149,6 @@
    "age": "18-65",
     "image": "https://zaimua.com.ua/img/creditplus-ua-kv.jpg.png",
     "rating": 4.6,
-   "sum_to": "50 000 руб",
-   "term_from": "1",
-   "term_to": "160",
- 
-   "visa": true,
-   "mastercard": true,
-   "mir": false,
-   "qiwi": true,
-   "yandex": false,
     "sum_one": "10 000 грн",
    "percents": "от 0%",
    "days_srok": "до 160 дней",
@@ -241,14 +162,6 @@
    "age": "18-65",
     "image": "https://zaimua.com.ua/img/mowe.jpeg",
     "rating": 4.8,
-   "sum_to": "50 000 руб",
-   "term_from": "1",
-   "term_to": "160",
-   "visa": true,
-   "mastercard": true,
-   "mir": false,
-   "qiwi": true,
-   "yandex": false,
     "sum_one": "17 000 грн",
    "percents": "от 0%",
    "days_srok": "до 160 дней",
@@ -261,15 +174,6 @@
    "age": "18-65",
     "image": "https://zaimua.com.ua/img/creditkasa-ua-kv.jpg.png",
     "rating": 4.6,
-   "sum_to": "50 000 руб",
-   "term_from": "1",
-   "term_to": "160",
- 
-   "visa": true,
-   "mastercard": true,
-   "mir": false,
-   "qiwi": true,
-   "yandex": false,
     "sum_one": "10 000 грн",
    "percents": "от 0.01%",
    "days_srok": "до 160 дней",
@@ -289,15 +193,6 @@
    "age": "18-65",
     "image": "https://zaimua.com.ua/img/yevrogroshi.png",
     "rating": 4.8,
-   "sum_to": "50 000 руб",
-   "term_from": "1",
-   "term_to": "160",
-
-   "visa": true,
-   "mastercard": true,
-   "mir": false,
-   "qiwi": true,
-   "yandex": false,
     "sum_one": "5 000 грн",
    "percents": "от 1.6%",
    "days_srok": "до 160 дней",
@@ -317,15 +212,6 @@
    "age": "18-65",
     "image": "https://zaimua.com.ua/img/alex-ua-kv.jpg.png",
     "rating": 4.8,
-   "sum_to": "50 000 руб",
-   "term_from": "1",
-   "term_to": "160",
-
-   "visa": true,
-   "mastercard": true,
-   "mir": false,
-   "qiwi": true,
-   "yandex": false,
     "sum_one": "12 000 грн",
    "percents": "от 0%",
    "days_srok": "до 160 дней",
@@ -345,15 +231,6 @@
    "age": "18-65",
     "image": "https://zaimua.com.ua/img/ofing.png",
     "rating": 4.8,
-   "sum_to": "50 000 руб",
-   "term_from": "1",
-   "term_to": "160",
-
-   "visa": true,
-   "mastercard": true,
-   "mir": false,
-   "qiwi": true,
-   "yandex": false,
     "sum_one": "4 000 грн",
    "percents": "от 2.50%",
    "days_srok": "до 160 дней",
@@ -372,15 +249,6 @@
    "age": "18-65",
     "image": "https://zaimua.com.ua/img/zecredit_logo.png",
     "rating": 4.8,
-   "sum_to": "50 000 руб",
-   "term_from": "1",
-   "term_to": "160",
-
-   "visa": true,
-   "mastercard": true,
-   "mir": false,
-   "qiwi": true,
-   "yandex": false,
     "sum_one": "7 000 грн",
    "percents": "от 0.01%",
    "days_srok": "до 160 дней",
@@ -398,15 +266,6 @@
    "age": "18-65",
     "image": "https://zaimua.com.ua/img/e-cash-logo-2.png",
     "rating": 4.6,
-   "sum_to": "50 000 руб",
-   "term_from": "1",
-   "term_to": "160",
-
-   "visa": true,
-   "mastercard": true,
-   "mir": false,
-   "qiwi": true,
-   "yandex": false,
     "sum_one": "8 000 грн",
    "percents": "от 0%",
    "days_srok": "до 160 дней",
@@ -425,15 +284,6 @@
    "age": "18-65",
     "image": "https://zaimua.com.ua/img/egrlogo.png",
     "rating": 4.8,
-   "sum_to": "50 000 руб",
-   "term_from": "1",
-   "term_to": "160",
-
-   "visa": true,
-   "mastercard": true,
-   "mir": false,
-   "qiwi": true,
-   "yandex": false,
     "sum_one": "5 000 грн",
    "percents": "от 0%",
    "days_srok": "до 160 дней",
@@ -450,15 +300,6 @@
    "age": "18-65",
     "image": "https://zaimua.com.ua/img/kachay.png",
     "rating": 4.8,
-   "sum_to": "50 000 руб",
-   "term_from": "1",
-   "term_to": "160",
-
-   "visa": true,
-   "mastercard": true,
-   "mir": false,
-   "qiwi": true,
-   "yandex": false,
     "sum_one": "10 000 грн",
    "percents": "от 0.01%",
    "days_srok": "до 160 дней",
@@ -472,15 +313,6 @@
    "age": "18-65",
     "image": "https://zaimua.com.ua/img/moneyboom.png",
     "rating": 4.8,
-   "sum_to": "50 000 руб",
-   "term_from": "1",
-   "term_to": "160",
-
-   "visa": true,
-   "mastercard": true,
-   "mir": false,
-   "qiwi": true,
-   "yandex": false,
     "sum_one": "15 000 грн",
    "percents": "от 1.75%",
    "days_srok": "до 160 дней",
@@ -510,15 +342,6 @@
    "age": "18-65",
     "image": "https://zaimua.com.ua/img/soscredit1.jpg",
     "rating": 4.8,
-   "sum_to": "50 000 руб",
-   "term_from": "1",
-   "term_to": "160",
-
-   "visa": true,
-   "mastercard": true,
-   "mir": false,
-   "qiwi": true,
-   "yandex": false,
     "sum_one": "7 000 грн",
    "percents": "от 0%",
    "days_srok": "до 160 дней",
@@ -541,153 +364,11 @@
    "age": "18-65",
     "image": "https://zaimua.com.ua/img/vashago.png",
     "rating": 4.6,
-   "sum_to": "50 000 руб",
-   "term_from": "1",
-   "term_to": "160",
-
-   "visa": true,
-   "mastercard": true,
-   "mir": false,
-   "qiwi": true,
-   "yandex": false,
     "sum_one": "7 000 грн",
    "percents": "от 1%",
    "days_srok": "до 160 дней",
     "urlna": "https://trkleads.ru/click/f4e27dc6b04ea59c6eba71fa42babf19?aff_sub2=uakre"
   }
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
- 
-  
-  
-  
-  
- 
-  
- 
-  
-  
-  
-  
-  
-  
-  
-   
-   
-  
-  
- 
-   
-   
-   
-   
-   
-     
- 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-   
-  
-  
- 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
- 
-  
-  
-  
-  
-  
-  
- 
-  
-   
-   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
- 
-  
-   
-  
-  
-  
-  
-  
- 
-  
- 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   
   
    ,
@@ -699,15 +380,6 @@
    "age": "18-65",
     "image": "https://zaimua.com.ua/img/mone.jpg.png",
     "rating": 4.6,
-   "sum_to": "50 000 руб",
-   "term_from": "1",
-   "term_to": "160",
- 
-   "visa": true,
-   "mastercard": true,
-   "mir": false,
-   "qiwi": true,
-   "yandex": false,
     "sum_one": "5 000 грн",
    "percents": "от 0.01%",
    "days_srok": "до 160 дней",
@@ -731,15 +403,6 @@
    "age": "18-70",
     "image": "https://zaimua.com.ua/img/ccc.png",
     "rating": 4.9,
-   "sum_to": "30 000 руб",
-   "term_from": "1",
-   "term_to": "160",
-
-   "visa": true,
-   "mastercard": true,
-   "mir": false,
-   "qiwi": true,
-   "yandex": false,
     "sum_one": "15 000 грн",
    "percents": "от 0%",
    "days_srok": "до 160 дней",
