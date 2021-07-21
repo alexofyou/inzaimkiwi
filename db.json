@@ -158,6 +158,17 @@
   }
   ,
 
+	    {
+   "name": "Grosh",
+   "age": "18-65",
+    "image": "https://zaimua.com.ua/img/egrs.png",
+    "rating": 4.8,
+    "sum_one": "10 000 грн",
+   "percents": "от 0%",
+   "days_srok": "",
+    "urlna": "https://track.e-groshi.com/click?pid=1957&offer_id=550&sub2=uakre"
+  }
+  ,
 	   
  
  {
