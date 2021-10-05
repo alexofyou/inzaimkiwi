@@ -120,7 +120,11 @@
   },
 
 	   
-  {
+
+	   
+	   
+	   
+	   {
    "name": "Cashberry",
    "age": "18-65",
     "image": "https://zaimua.com.ua/img/cashberr.png",
@@ -132,6 +136,30 @@
   },
 	   
 	   
+{
+   "name": "selfiecredit",
+   "age": "18-65",
+    "image": "https://zaimua.com.ua/img/selfdit.png",
+    "rating": 4.9,
+    "sum_one": "10 000 грн",
+   "percents": "от 0%",
+   "days_srok": "",
+    "urlna": "https://rdr.stormdigital.biz/SbMvS7"
+  },	
+	   
+	   
+	   
+{
+   "name": "lovilave",
+   "age": "18-65",
+    "image": "https://zaimua.com.ua/img/selfdit.png",
+    "rating": 4.9,
+    "sum_one": "3 000 грн",
+   "percents": "от 1%",
+   "days_srok": "",
+    "urlna": "https://rdr.stormdigital.biz/YXGhNl"
+  },	
+		   
 	   
 	   
   {
