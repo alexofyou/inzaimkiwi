@@ -2,7 +2,7 @@
     {
       "name": "Вива деньги",
       "icon": "https://raw.githubusercontent.com/alexofyou/images/main/vivaden.png",
-      "sum": 80000,
+      "sum": "до 80 000 грн",
       "stars": 5,
       "details": {
         "document": "Паспорт",
@@ -18,7 +18,7 @@
     {
       "name": "До Зарплаты",
       "icon": "https://raw.githubusercontent.com/alexofyou/images/main/zpp.png",
-      "sum": 100000,
+      "sum": "до 50 000 грн",
       "stars": 5,
       "details": {
         "document": "Паспорт",
@@ -34,7 +34,7 @@
     {
       "name": "Турбозайм",
       "icon": "https://raw.githubusercontent.com/alexofyou/images/main/turbo.jpg",
-      "sum": 50000,
+     "sum": "до 30 000 грн",
       "stars": 4,
       "details": {
         "document": "Паспорт",
@@ -50,7 +50,7 @@
     {
       "name": "Веббанкир",
       "icon": "https://www.bankdelo.ru/site/public/files/14/13882-webb.jpg",
-      "sum": 15000,
+      "sum": "до 15 000 грн",
       "stars": 4,
       "details": {
         "document": "Паспорт",
@@ -66,7 +66,7 @@
     {
       "name": "Moneyman",
       "icon": "https://raw.githubusercontent.com/alexofyou/images/main/moneymmm.png",
-      "sum": 80000,
+      "sum": "до 10 000 грн",
       "stars": 4,
       "details": {
         "document": "Паспорт",
